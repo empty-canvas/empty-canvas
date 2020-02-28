@@ -40,6 +40,7 @@
 * 参画先・入社先の企業で人を探してるけど良い人いない？
 * スポットで開発お願いしたいのだけど誰かいない？
 * 仕事の依頼が来たけど今手一杯で誰かにお願いしたい
+
 などなどで相互にメリットを享受できればと思っています。
 
 
@@ -65,5 +66,5 @@
 今後も増えるかと思います。  
 ぜひそちらもご検討ください。
 
-[卒業まで無料で通えるプログラミング学校が恵比寿に開校へ、転職後に給与の一部を支払うISAsモデルを採用](https://jp.techcrunch.com/2019/11/29/labot/?fbclid=IwAR2semf0odihMtIsh523S2DtnoxCm7ss4-Tr1uqqAg5jL8V93hQCxB2z4_4)
-[フランスの｢学費無料｣プログラミング学校、DMM.comが日本誘致。異色の事務局長が狙いを語った](https://www.businessinsider.jp/post-203263?fbclid=IwAR0s57GmI0BYK4pnxqiP4KbKwjKgeerL2NEqWXN5cJILSpHgkqP_nxQopBE)
+* [卒業まで無料で通えるプログラミング学校が恵比寿に開校へ、転職後に給与の一部を支払うISAsモデルを採用](https://jp.techcrunch.com/2019/11/29/labot/?fbclid=IwAR2semf0odihMtIsh523S2DtnoxCm7ss4-Tr1uqqAg5jL8V93hQCxB2z4_4)
+* [フランスの｢学費無料｣プログラミング学校、DMM.comが日本誘致。異色の事務局長が狙いを語った](https://www.businessinsider.jp/post-203263?fbclid=IwAR0s57GmI0BYK4pnxqiP4KbKwjKgeerL2NEqWXN5cJILSpHgkqP_nxQopBE)

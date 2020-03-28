@@ -80,10 +80,6 @@
 『作りたいものを無料で作るサポートをしてくれる！』  
 といった考えの方はご遠慮願います。
 
-## 過去の記事、情報など
-
-[Facebookでの投稿](https://www.facebook.com/nkazuyoshi/posts/2503451683275505)
-
 ## メンバー
 
 * [長尾一慶](https://www.linkedin.com/in/%E4%B8%80%E6%85%B6-%E9%95%B7%E5%B0%BE-35452a13b/)

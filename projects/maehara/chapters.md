@@ -1,6 +1,14 @@
 # Chapters
 
-## Chapter 2: 202-05-16 / 
+## Chapter 3: 2020-05-21
+
+* コーディング開始
+    * XDファイルを観ながらすすめる
+    * 今回はすべて山口がドライバーで流れを見せた
+* 作業用リポジトリ
+    * https://github.com/empty-canvas/maehara-portfolio
+
+## Chapter 2: 2020-05-16 / 
 
 * フロントエンドのプロジェクト開始準備
     * 参考資料: https://github.com/RikutoYamaguchi/frontend-build-description

@@ -4,6 +4,7 @@
 
 * コーディング開始
     * XDファイルを観ながらすすめる
+    * 今回はすべて山口がドライバーで流れを見せた
 * 作業用リポジトリ
     * https://github.com/empty-canvas/maehara-portfolio
 

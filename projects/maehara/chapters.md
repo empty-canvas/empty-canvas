@@ -1,5 +1,51 @@
 # Chapters
 
+## Chapter 7: 2020-07-01
+
+author: @maehara
+
+### スタイルの継承について
+
+- @extendの説明
+    - $item:null;の役割
+        - 変数$itemを定義。空では定義できないので、nullを入れてあげる
+        - #{item}でスタイルを継承したいクラス内で@extendで指定
+
+### javascriptでお問い合わせフォームの値を取得
+Driver:maehara
+Mob:グッチー
+
+- formの値を取得する
+    - documentオブジェクトを利用
+        - querySelector('CSSセレクタ')メソッドを利用した要素の取得
+        - addEventListener('イベント種類',アロー関数)でイベントが起こったときに、処理したい内容のセット
+            - イベント種類
+                - submit:フォームでsubmitが実施されたら
+                - foucs:フォーカスした時（フォームに入力するために入力箇所をクリック）
+                - blur:フォーカスアウトした時（フォームで入力箇所にクリックしてフォーカスしていたが、別の場所にフォーカスが移った時）
+                - change:フォームで値が入力されて、値が確定したら
+                - input:フォームで値が入力されたら（入力中で発生する）
+        - CSSの様にスタイルを変更する方法
+
+### AI
+- 必須のエラーバリエーション
+    - name:最大３０文字
+    - email:emailアドレスの形式になっていること（※type=textにて試す）
+        - 正規表現とは？
+        - emailだということを断定するには？
+    - content:最小２０文字で最大２００文字とかに設定
+- その他
+    - 現在「error」と表示されているところに表示させる
+    - errorの文字を変更するのも忘れない
+
+### 備考
+- 利用したブランチ
+`feature/20200701_edit`
+
+- 本日のPR
+https://github.com/empty-canvas/maehara-portfolio/pull/8
+
+
 ## Chapter 6: 2020-07-01
 
 author: @maehara

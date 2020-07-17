@@ -1,5 +1,33 @@
 # Chapters
 
+## Chapter 6: 2020-07-01
+
+author: @maehara
+
+### お問い合わせ（contact部分）の開発/モブプログラミング（30m）
+Driver:maehara
+Mob:グッチー
+
+- お問い合わせフォームの全体像の説明
+    - Web上に入力フォームを作成し、その情報をGoogleフォームに連携する感じ
+- 入力フォームの作成
+- formタグ、labelタグ、inputタグの説明
+    - formタグのmethod属性の説明（GETとPOST）
+    - labelタグのfor属性の説明
+    - inputタグのtype,name属性の説明
+        - 実際に入力フォームに入力された挙動の確認（URLにどんな値が表示されるか）
+        - フロントエンドでもサーバーサイド側の知識が必要になる部分の説明
+
+### AI
+- 今回作成した入力フォームにエラーなどを発生させた時に崩れない様に調整しておく（前原）
+
+### 備考
+- 利用したブランチ
+`feature/20200701`
+
+- 本日のPR
+https://github.com/empty-canvas/maehara-portfolio/pull/6
+
 ## Chapter 5: 2020-06-25
 
 author: @wataboru

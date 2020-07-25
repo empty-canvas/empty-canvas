@@ -15,7 +15,7 @@ author: @maehara
 
 - エラーにならずに漏れてしまう部分
     - 項目に値が入力されているかのチェックをする関数の作成
-        - 下記の①の場合はtureを、②の場合はfalseを返す関数
+        - 下記の①の場合はtrueを、②の場合はfalseを返す関数
             - ①→value:'(文字列,数値でも可)'、、、など
             - ②→value:'',value:null,value:undefined、、、など
         - function required(value){}という関数を定義した

@@ -1,6 +1,43 @@
 # Chapters
 
-## Chapter 11: 2020-08-20
+## Chapter 13: 2020-08-27
+
+author: @maehara
+
+### validateのリファクタリング
+driver: かずさん
+
+### 講義内容
+- Validatorクラス内のリファクタリング
+    - 目的とPoint
+        - 目的「シンプルにできるとこはシンプルにして、コードの可読性を高める。不要な変数などの削除」を意識して、コードをみていく
+        - 細かく区切りをつけ、動作確認して問題ないことを確認後コミットしていく
+    - 実際に行った内容
+        - constructor内の変数validatorの定義は現時点でどこにも利用されていなかった　→　削除
+            - 未定義の変数があった場合に変数名の色が変わるアプリをVScodeでないか確認する
+        - onValidatedメソッドの削除とaddErrorメソッドの名称変更、onValidatedCallback関数の名称変更
+            - onValidatedメソッド
+                - Htmlのエラー値を変更させ、表示させる関数をonValidatedCallbackに代入させているメソッドだった
+                    - 今回はメソッド自体がなくなったが、残すとしたらsetValidatedという方がパッとわかるかも
+                - onValidatedCallback関数を少し変えたため、不要になり削除
+            - addErrorメソッド
+                - エラーを追加し、onValidatedcallback関数を実行するメソッドの想定だったが、現状。。。（onにした方がいい理由の部分を忘れた・・。もう一回見直して分からなかったら聞く）
+            - onValidatedCallback関数
+                - addErrorメソッドにて実行され、{name:〇〇}の様なオブジェクトを引数にもち、onValidatedメソッドのコールバック関数を実行させていた
+                    - そのため、onValidatedメソッドを無くして、onErrorメソッド{name:〇〇}の様なオブジェクトを引数に受け取り、Htmlのエラー値を変更させ、表示させる関数させた
+
+### AI
+- VSCodeで未使用の変数を可視化する
+- 『javascript 連想配列 key 変数』調べて見てください
+
+### 備考
+- 利用したブランチ
+feature/refactor_20200827
+
+- 本日のPR
+https://github.com/empty-canvas/maehara-portfolio/pull/16
+
+## Chapter 12: 2020-08-20
 
 author: @maehara
 

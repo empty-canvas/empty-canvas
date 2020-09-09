@@ -1,9 +1,5 @@
 # empty-canvas
 
-## ショートカット
-
-* [git / github](./readme/)
-
 ## 概要
 
 現役でプロとして活動している人による、

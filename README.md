@@ -106,6 +106,11 @@ nagao.kazuyoshi@infinitars.org
     * サポーター志望の方
     * 場所など提供してくださる方
 
+## 関連記事
+
+* [プログラミング教育所感](https://note.com/kyakumo/n/n21c094800867)
+* [おすすめ書籍](https://note.com/kyakumo/n/n7baa9824b21f?magazine_key=m0353225d1a43)
+
 ## 類似サービス
 
 無料で学習できるサービスは最近増えてきており。  
